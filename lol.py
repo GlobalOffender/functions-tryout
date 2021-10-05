@@ -1,4 +1,3 @@
-
 def numbers(amount=str):
     num1 = 0
     num2 = 1
